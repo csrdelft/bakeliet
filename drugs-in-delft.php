@@ -8,7 +8,6 @@
 	<link rel="stylesheet" href="data/css-screen/1.typography.css" type="text/css" media="screen, projection" />
 	<link rel="stylesheet" href="data/css-screen/2.style.css" type="text/css" media="screen, projection" />
 	<link rel="stylesheet" href="data/css-screen/3.pos.css" type="text/css" media="screen, projection" />
-	<!--	<link rel="stylesheet" href="data/css-screen/bundle.css" type="text/css" media="screen, projection" /> -->
 	<link rel="stylesheet" href="data/css/print.css" type="text/css" media="print" />
 
 	<meta name="robots" content="noindex" />
