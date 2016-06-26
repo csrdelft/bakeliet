@@ -43,7 +43,7 @@
 	<div id="content">
 		<h1 class="waterloop">Slag om Waterloop</h1>
 
-		<iframe width="853" height="480" src="http://www.youtube.com/embed/2b7j2PW7qJA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+		<iframe width="853" height="480" src="https://www.youtube.com/embed/2b7j2PW7qJA" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 	</div>
 
 	<div id="footer">

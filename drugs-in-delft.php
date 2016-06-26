@@ -43,7 +43,7 @@
 	<div id="content">
 		<h1 class="drugs">Drugs in Delft</h1>
 
-		<iframe width="853" height="480" src="http://www.youtube.com/embed/uW8m6GFm6ls" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+		<iframe width="853" height="480" src="https://www.youtube.com/embed/uW8m6GFm6ls" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
 	</div>
 
 	<div id="footer">
